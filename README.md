@@ -1,1 +1,1 @@
-[# agario10](https://agario10.surge.sh/)
+[agario10](https://agario10.surge.sh/)
